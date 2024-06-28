@@ -1,6 +1,7 @@
 var count = 200;
 var defaults = {
-  origin: { y: 0.5 },
+  origin: { y: -0.1 },
+  angle: -90,
 };
 
 function fire(particleRatio, opts) {
